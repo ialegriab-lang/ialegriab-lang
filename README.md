@@ -1,1 +1,3 @@
-#isa_PUFF
+# isa_PUFF
+
+Creativa en proceso, computación creativa
